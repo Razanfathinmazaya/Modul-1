@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-define ("NAMA", "Alfandy");
+define ("NAMA", "Razan");
 define ("NILAI" ,90);
 
 echo "Nama : " . NAMA;
