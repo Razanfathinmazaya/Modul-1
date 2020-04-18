@@ -1,3 +1,3 @@
 <?php
-echo "Hello, Nama saya ALFANDY ";
+echo "Hello, Nama saya RAZAN ";
 ?>
